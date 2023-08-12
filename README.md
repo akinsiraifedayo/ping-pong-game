@@ -1,7 +1,6 @@
 # Pong Game
 
-![PONG-GAME](https://github.com/akinsiraifedayo/ping-pong-game/assets/60388460/c4f31497-374a-4ed2-a294-51e3940b5c78)
-
+![PONG-GAME](https://github.com/akinsiraifedayo/ping-pong-game/assets/60388460/621faf71-3bc3-49c8-a47e-2540e2c15b01)
 
 ## Table of Contents
 
