@@ -1,6 +1,7 @@
 # Pong Game
 
-![Pong Game](pong_game_demo.gif)
+![PONG-GAME](https://github.com/akinsiraifedayo/ping-pong-game/assets/60388460/c4f31497-374a-4ed2-a294-51e3940b5c78)
+
 
 ## Table of Contents
 
@@ -39,7 +40,7 @@ Welcome to the classic Pong game implementation using Python and the Turtle grap
 1. Run the game: Open your terminal or command prompt and execute the command `python main.py`.
 2. Player Controls:
    - Left Paddle (Player 1): Use the "W" key to move up and the "S" key to move down.
-   - Right Paddle (Player 2 or Computer): Use the arrow keys to move up and down.
+   - Right Paddle (Player 2): Use the arrow keys to move up and down.
 
 3. Gameplay:
    - The game starts with the ball served from the center of the screen.
